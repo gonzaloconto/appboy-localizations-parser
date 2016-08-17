@@ -1,7 +1,7 @@
 {
   "name": "AppboyLocalizationsParser",
   "description": "Builds if-else statement for Appboy in-app localizations",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "license": "MIT",
   "engines": {
     "node": ">=0.10.32"
