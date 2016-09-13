@@ -1,5 +1,5 @@
 {
-  "name": "AppboyLocalizationsParser",
+  "name": "appboy-chew-localizations-to-if-else",
   "description": "Builds if-else statement for Appboy in-app localizations",
   "version": "0.0.1",
   "license": "MIT",
